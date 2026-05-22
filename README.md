@@ -39,7 +39,7 @@ These variables are automatically loaded by the client on initialization.
 Initialize your Go module and fetch the package:
 
 ```bash
-go get github.com/proagent/webfetch
+go get github.com/proiceremo/webfetch
 ```
 
 ---
@@ -54,7 +54,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/proagent/webfetch"
+	"github.com/proiceremo/webfetch"
 )
 
 func main() {
